@@ -12,7 +12,7 @@ I am seeking an internship or employement to gain real-world experience in the c
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Test        | <a href="https://google.com">Detection Lab</a>|
+| Enterprise Environment Attack       | <a href="https://github.com/jacob-luke-boyd/Homelab">Homelab</a>|
 
 ## Tools
 
@@ -44,4 +44,4 @@ I am seeking an internship or employement to gain real-world experience in the c
 </div>
 
 ## Projects
-- Homelab
+- <a href="https://github.com/jacob-luke-boyd/Homelab">Homelab</a>
