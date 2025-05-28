@@ -7,7 +7,7 @@ I am a cybersecurity major with a project management concentration. I have a str
 
 ## Objective
 
-I am seeking an internship or employement to gain real-world experience in the cybersecurity industry. Specifically, I aspire to obtain a SOC Analyst position. 
+I am seeking employement to gain real-world experience in the cybersecurity industry. Specifically, I aspire to obtain a SOC Analyst I position. 
 
 ## Skills
 | Skill                                         | Associated Project         |
