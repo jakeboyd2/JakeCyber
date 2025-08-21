@@ -1,13 +1,7 @@
 # JakeCyber
 # Hello, I'm Jake
 <a href="https://www.linkedin.com/in/jacoblukeboyd"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
-I am a cybersecurity major with a project management concentration. I have a strong interest in technology and enjoy challenges. 
-
-## Objective
-
-I am seeking employement to gain real-world experience in the cybersecurity industry. Specifically, I aspire to obtain a SOC Analyst I position. 
+ 
 
 ## Skills
 | Skill                                         | Associated Project         |
